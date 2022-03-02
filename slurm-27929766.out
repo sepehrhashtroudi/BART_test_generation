@@ -1,0 +1,20 @@
+Using custom data configuration default-6c84cd5113121240
+Reusing dataset csv (/home/sepehr8/.cache/huggingface/datasets/csv/default-6c84cd5113121240/0.0.0/6b9057d9e23d9d8a2f05b985917a0da84d70c5dae3d22ddd8a3f22fb01c69d9e)
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  3.30it/s]100%|██████████| 1/1 [00:00<00:00,  3.29it/s]
+Loading cached processed dataset at /home/sepehr8/.cache/huggingface/datasets/csv/default-6c84cd5113121240/0.0.0/6b9057d9e23d9d8a2f05b985917a0da84d70c5dae3d22ddd8a3f22fb01c69d9e/cache-14b23fc84b62e2dc.arrow
+Dataset({
+    features: ['0', '0.1', 'input_ids', 'token_type_ids', 'attention_mask', 'labels'],
+    num_rows: 78534
+})
+Traceback (most recent call last):
+  File "BART_WordPiece.py", line 49, in <module>
+    metric = load_metric("./metric/sacrebleu.py")
+  File "/project/6025819/sepehr8/test_generation/BART_test_generation/ENV/lib/python3.7/site-packages/datasets/load.py", line 1416, in load_metric
+    path, revision=revision, download_config=download_config, download_mode=download_mode
+  File "/project/6025819/sepehr8/test_generation/BART_test_generation/ENV/lib/python3.7/site-packages/datasets/load.py", line 1269, in metric_module_factory
+    path, download_mode=download_mode, dynamic_modules_path=dynamic_modules_path
+  File "/project/6025819/sepehr8/test_generation/BART_test_generation/ENV/lib/python3.7/site-packages/datasets/load.py", line 644, in get_module
+    download_config=self.download_config,
+  File "/project/6025819/sepehr8/test_generation/BART_test_generation/ENV/lib/python3.7/site-packages/datasets/load.py", line 298, in _download_additional_modules
+    f"To be able to use {name}, you need to install the following dependencies"
+ImportError: To be able to use sacrebleu, you need to install the following dependencies['sacrebleu'] using 'pip install sacrebleu' for instance'
