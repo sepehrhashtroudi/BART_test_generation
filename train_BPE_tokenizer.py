@@ -6,7 +6,7 @@ from pathlib import Path
 from tokenizers.processors import TemplateProcessing
 import os
 
-path = "eval"
+path = "train"
 methods = load_dataset('text', data_files= "dataset/" + path  + "_final.methods")
 tests = load_dataset('text', data_files= "dataset/" + path  + "_final.tests")
 paths = ["eval_final.methods","eval_final.tests"]

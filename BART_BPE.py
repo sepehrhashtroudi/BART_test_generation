@@ -28,7 +28,7 @@ from transformers import (
 #df = pd.read_csv(path  + "_final.csv")
 train_dataset = load_dataset('csv', data_files="dataset/train_final.csv")
 eval_dataset = load_dataset('csv', data_files="dataset/eval_final.csv")
-tokenizer = PreTrainedTokenizerFast(tokenizer_file="./WordPiece_tokenizer/WordPiece.json")
+tokenizer = PreTrainedTokenizerFast(tokenizer_file="./BPE_tokenizer/BPE.json")
 # train_dataset = create_dataset(df['0'].tolist(), df['0.1'].tolist(), tok, pad_truncate=True, max_length=128)
 # eval_dataset = create_dataset(df['0'].tolist(), df['0.1'].tolist(), tok, pad_truncate=True, max_length=128)
 tokenizer.add_special_tokens({"bos_token": "<s>", "eos_token": "</s>", "unk_token": "<unk>", "sep_token": "</s>",
@@ -87,10 +87,10 @@ if os.path.exists("bart-large-cnn")==False:
 else:
     model = BartForConditionalGeneration.from_pretrained("./bart-large-cnn")
 # tokenizer = ByteLevelBPETokenizer("/content/drive/MyDrive/colab_backup/BPE_pretrained_on_code/")
-tokenizer = PreTrainedTokenizerFast(tokenizer_file="./WordPiece_tokenizer/WordPiece.json")
+tokenizer = PreTrainedTokenizerFast(tokenizer_file="./BPE_tokenizer/BPE.json")
 tokenizer.add_special_tokens({"bos_token": "<s>", "eos_token": "</s>", "unk_token": "<unk>", "sep_token": "</s>",
                               "pad_token": "<pad>", "cls_token": "<s>"})
-training_args = Seq2SeqTrainingArguments(output_dir = "./Bart_WordPiece_saved_models",\
+training_args = Seq2SeqTrainingArguments(output_dir = "./Bart_BPE_saved_models",\
                                          per_device_train_batch_size=2,\
                                          num_train_epochs=5,
                                          evaluation_strategy = "epoch",\
