@@ -2,8 +2,9 @@
 /ENV
 /distilbart-cnn-12-6
 /bart-large-cnn
-eval_final.csv
 /saved_models
+/Bart_BPE_saved_models
+/Bart_WordPiece_saved_models
 *.csv
 *.methods
 *.tests
