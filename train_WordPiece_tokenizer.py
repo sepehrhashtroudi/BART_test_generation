@@ -6,9 +6,9 @@ from pathlib import Path
 from tokenizers.processors import TemplateProcessing
 import os
 
-path = "eval"
-methods = load_dataset('text', data_files= path  + "_final.methods")
-tests = load_dataset('text', data_files= path  + "_final.tests")
+path = "train"
+methods = load_dataset('text', data_files= "dataset/" + path  + "_final.methods")
+tests = load_dataset('text', data_files= "dataset/" + path  + "_final.tests")
 paths = ["eval_final.methods","eval_final.tests"]
 assert methods['train'].features.type == tests["train"].features.type
 concat_data = concatenate_datasets([methods['train'],tests['train']])
@@ -25,7 +25,6 @@ WordPiece_tokenizer.decoder = decoders.WordPiece()
 
 trainer = trainers.WordPieceTrainer(
     vocab_size=50000,
-    initial_alphabet=pre_tokenizers.ByteLevel.alphabet(),
     special_tokens=["<s>",
                   "<pad>",
                   "</s>",

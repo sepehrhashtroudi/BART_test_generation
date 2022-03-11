@@ -23,10 +23,11 @@ from transformers import (
     Seq2SeqTrainingArguments,
     set_seed,
 )
-path = "eval"
 
-df = pd.read_csv(path  + "_final.csv")
-dataset = load_dataset('csv', data_files= path  + "_final.csv")
+
+#df = pd.read_csv(path  + "_final.csv")
+train_dataset = load_dataset('csv', data_files="dataset/train_final.csv")
+eval_dataset = load_dataset('csv', data_files="dataset/eval_final.csv")
 tokenizer = PreTrainedTokenizerFast(tokenizer_file="./WordPiece_tokenizer/WordPiece.json")
 # train_dataset = create_dataset(df['0'].tolist(), df['0.1'].tolist(), tok, pad_truncate=True, max_length=128)
 # eval_dataset = create_dataset(df['0'].tolist(), df['0.1'].tolist(), tok, pad_truncate=True, max_length=128)
@@ -41,8 +42,9 @@ def tokenize_function(examples):
   model_inputs["labels"] = labels["input_ids"]
   return model_inputs
 
-tokenized_dataset_word = dataset.map(tokenize_function, batched=True)
-print(tokenized_dataset_word["train"])
+tokenized_train_dataset_word = train_dataset.map(tokenize_function, batched=True)
+tokenized_eval_dataset_word = eval_dataset.map(tokenize_function, batched=True)
+print(tokenized_train_dataset_word["train"])
 
 
 
@@ -78,7 +80,7 @@ def compute_metrics(eval_preds):
 
 
     
-small_eval_dataset = tokenized_dataset_word['train'].shuffle(seed=42).select(range(1000))
+small_eval_dataset = tokenized_eval_dataset_word['train'].shuffle(seed=42).select(range(1000))
 if os.path.exists("bart-large-cnn")==False:
     model = BartForConditionalGeneration.from_pretrained("facebook/bart-large-cnn")
     model.save_pretrained("./bart-large-cnn")
@@ -88,7 +90,7 @@ else:
 tokenizer = PreTrainedTokenizerFast(tokenizer_file="./WordPiece_tokenizer/WordPiece.json")
 tokenizer.add_special_tokens({"bos_token": "<s>", "eos_token": "</s>", "unk_token": "<unk>", "sep_token": "</s>",
                               "pad_token": "<pad>", "cls_token": "<s>"})
-training_args = Seq2SeqTrainingArguments(output_dir = "./Bart_saved_models",\
+training_args = Seq2SeqTrainingArguments(output_dir = "./Bart_WordPiece_saved_models",\
                                          per_device_train_batch_size=2,\
                                          num_train_epochs=5,
                                          evaluation_strategy = "epoch",\
@@ -105,7 +107,7 @@ data_collator = DataCollatorForSeq2Seq(
 trainer = Seq2SeqTrainer(
         model=model,
         args=training_args,
-        train_dataset=tokenized_dataset_word['train'],
+        train_dataset=tokenized_train_dataset_word['train'],
         eval_dataset=small_eval_dataset ,
         tokenizer=tokenizer,
         data_collator=data_collator,
