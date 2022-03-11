@@ -1,0 +1,1439 @@
+Using custom data configuration default-6045b6d859a6831d
+Downloading and preparing dataset csv/default to /home/sepehr8/.cache/huggingface/datasets/csv/default-6045b6d859a6831d/0.0.0/6b9057d9e23d9d8a2f05b985917a0da84d70c5dae3d22ddd8a3f22fb01c69d9e...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 2914.74it/s]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 142.56it/s]
+Dataset csv downloaded and prepared to /home/sepehr8/.cache/huggingface/datasets/csv/default-6045b6d859a6831d/0.0.0/6b9057d9e23d9d8a2f05b985917a0da84d70c5dae3d22ddd8a3f22fb01c69d9e. Subsequent calls will reuse this data.
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.75s/it]100%|██████████| 1/1 [00:02<00:00,  2.75s/it]
+Using custom data configuration default-e9ddb0055ee704dc
+Downloading and preparing dataset csv/default to /home/sepehr8/.cache/huggingface/datasets/csv/default-e9ddb0055ee704dc/0.0.0/6b9057d9e23d9d8a2f05b985917a0da84d70c5dae3d22ddd8a3f22fb01c69d9e...
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 3024.01it/s]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 157.76it/s]
+Dataset csv downloaded and prepared to /home/sepehr8/.cache/huggingface/datasets/csv/default-e9ddb0055ee704dc/0.0.0/6b9057d9e23d9d8a2f05b985917a0da84d70c5dae3d22ddd8a3f22fb01c69d9e. Subsequent calls will reuse this data.
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  2.12it/s]100%|██████████| 1/1 [00:00<00:00,  2.12it/s]
+  0%|          | 0/625 [00:00<?, ?ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  0%|          | 1/625 [00:00<06:27,  1.61ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  0%|          | 2/625 [00:01<06:37,  1.57ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  0%|          | 3/625 [00:02<07:03,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  1%|          | 4/625 [00:02<07:15,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  1%|          | 5/625 [00:03<07:00,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  1%|          | 6/625 [00:04<07:41,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  1%|          | 7/625 [00:05<08:55,  1.15ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  1%|▏         | 8/625 [00:05<08:07,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  1%|▏         | 9/625 [00:06<07:40,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  2%|▏         | 10/625 [00:07<07:49,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  2%|▏         | 11/625 [00:08<07:48,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  2%|▏         | 12/625 [00:08<07:43,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  2%|▏         | 13/625 [00:09<07:32,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  2%|▏         | 14/625 [00:10<07:19,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  2%|▏         | 15/625 [00:10<07:09,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  3%|▎         | 16/625 [00:12<08:20,  1.22ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  3%|▎         | 17/625 [00:12<07:43,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  3%|▎         | 18/625 [00:13<07:24,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  3%|▎         | 19/625 [00:14<07:13,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  3%|▎         | 20/625 [00:14<07:02,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  3%|▎         | 21/625 [00:15<06:50,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  4%|▎         | 22/625 [00:16<06:54,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  4%|▎         | 23/625 [00:16<07:02,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  4%|▍         | 24/625 [00:17<06:55,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  4%|▍         | 25/625 [00:18<06:45,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  4%|▍         | 26/625 [00:18<06:33,  1.52ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  4%|▍         | 27/625 [00:19<06:49,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  4%|▍         | 28/625 [00:20<06:48,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  5%|▍         | 29/625 [00:31<38:30,  3.88s/ba]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  5%|▍         | 30/625 [00:32<29:27,  2.97s/ba]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  5%|▍         | 31/625 [00:32<22:26,  2.27s/ba]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  5%|▌         | 32/625 [00:33<17:43,  1.79s/ba]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  5%|▌         | 33/625 [00:34<14:21,  1.46s/ba]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  5%|▌         | 34/625 [00:34<12:06,  1.23s/ba]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  6%|▌         | 35/625 [00:35<10:21,  1.05s/ba]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  6%|▌         | 36/625 [00:36<09:40,  1.01ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  6%|▌         | 37/625 [00:37<08:54,  1.10ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  6%|▌         | 38/625 [00:37<07:54,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  6%|▌         | 39/625 [00:38<07:52,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  6%|▋         | 40/625 [00:39<07:39,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  7%|▋         | 41/625 [00:39<07:18,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  7%|▋         | 42/625 [00:40<06:58,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  7%|▋         | 43/625 [00:41<07:15,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  7%|▋         | 44/625 [00:42<07:09,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  7%|▋         | 45/625 [00:42<07:04,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  7%|▋         | 46/625 [00:43<07:18,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  8%|▊         | 47/625 [00:44<07:08,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  8%|▊         | 48/625 [00:45<07:05,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  8%|▊         | 49/625 [00:46<07:50,  1.22ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  8%|▊         | 50/625 [00:47<08:46,  1.09ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  8%|▊         | 51/625 [00:48<08:19,  1.15ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  8%|▊         | 52/625 [00:48<08:07,  1.18ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  8%|▊         | 53/625 [00:49<08:09,  1.17ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  9%|▊         | 54/625 [00:50<07:45,  1.23ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  9%|▉         | 55/625 [00:51<07:25,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  9%|▉         | 56/625 [00:51<06:59,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  9%|▉         | 57/625 [00:52<06:42,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  9%|▉         | 58/625 [00:53<06:41,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  9%|▉         | 59/625 [00:53<06:25,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 10%|▉         | 60/625 [00:54<06:45,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 10%|▉         | 61/625 [00:55<07:00,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 10%|▉         | 62/625 [00:55<06:41,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 10%|█         | 63/625 [00:57<07:35,  1.23ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 10%|█         | 64/625 [00:57<07:19,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 10%|█         | 65/625 [00:58<07:07,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 11%|█         | 66/625 [00:59<06:37,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 11%|█         | 67/625 [00:59<06:41,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 11%|█         | 68/625 [01:00<06:29,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 11%|█         | 69/625 [01:01<06:46,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 11%|█         | 70/625 [01:02<07:05,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 11%|█▏        | 71/625 [01:02<06:45,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 12%|█▏        | 72/625 [01:03<06:39,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 12%|█▏        | 73/625 [01:04<06:34,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 12%|█▏        | 74/625 [01:04<06:34,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 12%|█▏        | 75/625 [01:05<06:17,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 12%|█▏        | 76/625 [01:06<06:20,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 12%|█▏        | 77/625 [01:06<06:09,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 12%|█▏        | 78/625 [01:07<06:15,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 13%|█▎        | 79/625 [01:08<06:26,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 13%|█▎        | 80/625 [01:08<06:19,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 13%|█▎        | 81/625 [01:09<06:12,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 13%|█▎        | 82/625 [01:10<06:18,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 13%|█▎        | 83/625 [01:10<06:08,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 13%|█▎        | 84/625 [01:11<06:40,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 14%|█▎        | 85/625 [01:12<07:10,  1.25ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 14%|█▍        | 86/625 [01:13<07:09,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 14%|█▍        | 87/625 [01:14<06:52,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 14%|█▍        | 88/625 [01:15<06:43,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 14%|█▍        | 89/625 [01:15<06:36,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 14%|█▍        | 90/625 [01:16<06:31,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 15%|█▍        | 91/625 [01:17<06:18,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 15%|█▍        | 92/625 [01:17<06:11,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 15%|█▍        | 93/625 [01:18<06:05,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 15%|█▌        | 94/625 [01:19<06:09,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 15%|█▌        | 95/625 [01:19<05:55,  1.49ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 15%|█▌        | 96/625 [01:20<05:41,  1.55ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 16%|█▌        | 97/625 [01:20<05:32,  1.59ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 16%|█▌        | 98/625 [01:21<05:25,  1.62ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 16%|█▌        | 99/625 [01:22<05:28,  1.60ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 16%|█▌        | 100/625 [01:22<05:36,  1.56ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 16%|█▌        | 101/625 [01:23<05:45,  1.52ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 16%|█▋        | 102/625 [01:24<06:07,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 16%|█▋        | 103/625 [01:25<06:06,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 17%|█▋        | 104/625 [01:25<06:26,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 17%|█▋        | 105/625 [01:26<06:12,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 17%|█▋        | 106/625 [01:27<07:10,  1.20ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 17%|█▋        | 107/625 [01:28<07:07,  1.21ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 17%|█▋        | 108/625 [01:29<06:42,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 17%|█▋        | 109/625 [01:29<06:46,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 18%|█▊        | 110/625 [01:30<06:30,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 18%|█▊        | 111/625 [01:31<06:19,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 18%|█▊        | 112/625 [01:32<06:14,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 18%|█▊        | 113/625 [01:32<06:03,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 18%|█▊        | 114/625 [01:33<05:47,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 18%|█▊        | 115/625 [01:33<05:31,  1.54ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 19%|█▊        | 116/625 [01:34<05:34,  1.52ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 19%|█▊        | 117/625 [01:35<05:34,  1.52ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 19%|█▉        | 118/625 [01:36<05:59,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 19%|█▉        | 119/625 [01:36<05:55,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 19%|█▉        | 120/625 [01:37<06:03,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 19%|█▉        | 121/625 [01:38<06:21,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 20%|█▉        | 122/625 [01:39<06:45,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 20%|█▉        | 123/625 [01:40<06:58,  1.20ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 20%|█▉        | 124/625 [01:41<07:04,  1.18ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 20%|██        | 125/625 [01:41<06:56,  1.20ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 20%|██        | 126/625 [01:42<07:16,  1.14ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 20%|██        | 127/625 [01:43<06:43,  1.23ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 20%|██        | 128/625 [01:43<06:02,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 21%|██        | 129/625 [01:44<05:50,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 21%|██        | 130/625 [01:45<05:48,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 21%|██        | 131/625 [01:46<06:05,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 21%|██        | 132/625 [01:47<06:23,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 21%|██▏       | 133/625 [01:47<06:19,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 21%|██▏       | 134/625 [01:48<06:14,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 22%|██▏       | 135/625 [01:49<06:04,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 22%|██▏       | 136/625 [01:50<06:06,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 22%|██▏       | 137/625 [01:50<06:03,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 22%|██▏       | 138/625 [01:51<05:56,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 22%|██▏       | 139/625 [01:52<06:08,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 22%|██▏       | 140/625 [01:53<07:05,  1.14ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 23%|██▎       | 141/625 [01:54<06:53,  1.17ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 23%|██▎       | 142/625 [01:54<06:28,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 23%|██▎       | 143/625 [01:55<06:12,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 23%|██▎       | 144/625 [01:56<06:15,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 23%|██▎       | 145/625 [01:57<05:54,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 23%|██▎       | 146/625 [01:57<05:36,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 24%|██▎       | 147/625 [01:58<05:34,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 24%|██▎       | 148/625 [01:59<06:10,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 24%|██▍       | 149/625 [01:59<05:52,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 24%|██▍       | 150/625 [02:00<05:51,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 24%|██▍       | 151/625 [02:01<05:41,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 24%|██▍       | 152/625 [02:02<05:36,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 24%|██▍       | 153/625 [02:02<05:15,  1.50ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 25%|██▍       | 154/625 [02:03<05:09,  1.52ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 25%|██▍       | 155/625 [02:03<05:11,  1.51ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 25%|██▍       | 156/625 [02:04<05:47,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 25%|██▌       | 157/625 [02:05<05:39,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 25%|██▌       | 158/625 [02:06<05:32,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 25%|██▌       | 159/625 [02:06<05:16,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 26%|██▌       | 160/625 [02:07<05:23,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 26%|██▌       | 161/625 [02:08<05:32,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 26%|██▌       | 162/625 [02:08<05:15,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 26%|██▌       | 163/625 [02:09<05:06,  1.51ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 26%|██▌       | 164/625 [02:10<04:55,  1.56ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 26%|██▋       | 165/625 [02:10<04:52,  1.57ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 27%|██▋       | 166/625 [02:11<05:12,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 27%|██▋       | 167/625 [02:12<05:43,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 27%|██▋       | 168/625 [02:13<06:07,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 27%|██▋       | 169/625 [02:13<05:37,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 27%|██▋       | 170/625 [02:14<05:30,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 27%|██▋       | 171/625 [02:15<05:26,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 28%|██▊       | 172/625 [02:16<05:34,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 28%|██▊       | 173/625 [02:17<05:57,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 28%|██▊       | 174/625 [02:17<05:29,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 28%|██▊       | 175/625 [02:18<05:24,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 28%|██▊       | 176/625 [02:18<05:10,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 28%|██▊       | 177/625 [02:19<05:13,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 28%|██▊       | 178/625 [02:20<05:14,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 29%|██▊       | 179/625 [02:21<05:09,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 29%|██▉       | 180/625 [02:21<05:02,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 29%|██▉       | 181/625 [02:22<04:51,  1.52ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 29%|██▉       | 182/625 [02:23<04:57,  1.49ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 29%|██▉       | 183/625 [02:23<04:59,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 29%|██▉       | 184/625 [02:24<05:14,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 30%|██▉       | 185/625 [02:25<05:17,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 30%|██▉       | 186/625 [02:25<05:08,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 30%|██▉       | 187/625 [02:26<04:57,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 30%|███       | 188/625 [02:27<04:56,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 30%|███       | 189/625 [02:27<04:54,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 30%|███       | 190/625 [02:28<05:37,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 31%|███       | 191/625 [02:29<05:35,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 31%|███       | 192/625 [02:30<05:18,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 31%|███       | 193/625 [02:31<05:20,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 31%|███       | 194/625 [02:31<05:15,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 31%|███       | 195/625 [02:32<05:15,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 31%|███▏      | 196/625 [02:33<05:25,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 32%|███▏      | 197/625 [02:34<05:15,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 32%|███▏      | 198/625 [02:34<05:03,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 32%|███▏      | 199/625 [02:35<04:55,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 32%|███▏      | 200/625 [02:36<04:58,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 32%|███▏      | 201/625 [02:36<04:59,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 32%|███▏      | 202/625 [02:37<05:06,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 32%|███▏      | 203/625 [02:38<04:57,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 33%|███▎      | 204/625 [02:38<04:53,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 33%|███▎      | 205/625 [02:39<04:45,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 33%|███▎      | 206/625 [02:40<04:50,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 33%|███▎      | 207/625 [02:40<04:39,  1.50ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 33%|███▎      | 208/625 [02:41<04:36,  1.51ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 33%|███▎      | 209/625 [02:42<04:34,  1.52ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 34%|███▎      | 210/625 [02:42<04:29,  1.54ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 34%|███▍      | 211/625 [02:43<04:34,  1.51ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 34%|███▍      | 212/625 [02:44<04:38,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 34%|███▍      | 213/625 [02:44<04:27,  1.54ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 34%|███▍      | 214/625 [02:45<04:30,  1.52ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 34%|███▍      | 215/625 [02:46<05:11,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 35%|███▍      | 216/625 [02:47<05:18,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 35%|███▍      | 217/625 [02:47<05:06,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 35%|███▍      | 218/625 [02:48<04:48,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 35%|███▌      | 219/625 [02:49<05:00,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 35%|███▌      | 220/625 [02:50<05:15,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 35%|███▌      | 221/625 [02:50<04:50,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 36%|███▌      | 222/625 [02:51<04:48,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 36%|███▌      | 223/625 [02:52<05:04,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 36%|███▌      | 224/625 [02:53<05:46,  1.16ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 36%|███▌      | 225/625 [02:54<05:22,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 36%|███▌      | 226/625 [02:55<05:32,  1.20ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 36%|███▋      | 227/625 [02:55<05:12,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 36%|███▋      | 228/625 [02:56<04:48,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 37%|███▋      | 229/625 [02:57<04:46,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 37%|███▋      | 230/625 [02:58<05:55,  1.11ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 37%|███▋      | 231/625 [02:59<05:32,  1.19ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 37%|███▋      | 232/625 [02:59<05:15,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 37%|███▋      | 233/625 [03:00<04:52,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 37%|███▋      | 234/625 [03:01<04:43,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 38%|███▊      | 235/625 [03:01<04:41,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 38%|███▊      | 236/625 [03:02<04:19,  1.50ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 38%|███▊      | 237/625 [03:02<04:12,  1.53ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 38%|███▊      | 238/625 [03:03<04:12,  1.53ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 38%|███▊      | 239/625 [03:04<04:19,  1.49ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 38%|███▊      | 240/625 [03:05<04:30,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 39%|███▊      | 241/625 [03:05<04:15,  1.50ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 39%|███▊      | 242/625 [03:06<04:18,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 39%|███▉      | 243/625 [03:07<04:22,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 39%|███▉      | 244/625 [03:07<04:39,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 39%|███▉      | 245/625 [03:08<04:29,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 39%|███▉      | 246/625 [03:09<04:27,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 40%|███▉      | 247/625 [03:09<04:18,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 40%|███▉      | 248/625 [03:10<04:15,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 40%|███▉      | 249/625 [03:11<04:13,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 40%|████      | 250/625 [03:12<04:39,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 40%|████      | 251/625 [03:12<04:41,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 40%|████      | 252/625 [03:13<04:26,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 40%|████      | 253/625 [03:14<04:16,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 41%|████      | 254/625 [03:14<04:13,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 41%|████      | 255/625 [03:15<04:08,  1.49ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 41%|████      | 256/625 [03:16<04:16,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 41%|████      | 257/625 [03:17<05:23,  1.14ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 41%|████▏     | 258/625 [03:18<05:21,  1.14ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 41%|████▏     | 259/625 [03:19<04:58,  1.23ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 42%|████▏     | 260/625 [03:19<04:48,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 42%|████▏     | 261/625 [03:20<04:28,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 42%|████▏     | 262/625 [03:21<04:31,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 42%|████▏     | 263/625 [03:21<04:31,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 42%|████▏     | 264/625 [03:22<04:28,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 42%|████▏     | 265/625 [03:23<04:18,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 43%|████▎     | 266/625 [03:24<04:11,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 43%|████▎     | 267/625 [03:24<03:59,  1.50ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 43%|████▎     | 268/625 [03:25<04:08,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 43%|████▎     | 269/625 [03:26<04:19,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 43%|████▎     | 270/625 [03:26<04:13,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 43%|████▎     | 271/625 [03:27<04:05,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 44%|████▎     | 272/625 [03:28<03:57,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 44%|████▎     | 273/625 [03:28<03:55,  1.50ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 44%|████▍     | 274/625 [03:29<04:06,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 44%|████▍     | 275/625 [03:30<04:16,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 44%|████▍     | 276/625 [03:31<04:14,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 44%|████▍     | 277/625 [03:31<03:58,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 44%|████▍     | 278/625 [03:32<04:35,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 45%|████▍     | 279/625 [03:33<04:26,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 45%|████▍     | 280/625 [03:34<04:22,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 45%|████▍     | 281/625 [03:34<04:15,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 45%|████▌     | 282/625 [03:35<04:18,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 45%|████▌     | 283/625 [03:36<04:57,  1.15ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 45%|████▌     | 284/625 [03:38<05:51,  1.03s/ba]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 46%|████▌     | 285/625 [03:39<05:28,  1.04ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 46%|████▌     | 286/625 [03:39<05:24,  1.04ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 46%|████▌     | 287/625 [03:40<05:10,  1.09ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 46%|████▌     | 288/625 [03:41<04:41,  1.20ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 46%|████▌     | 289/625 [03:42<04:38,  1.21ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 46%|████▋     | 290/625 [03:43<04:32,  1.23ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 47%|████▋     | 291/625 [03:43<04:17,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 47%|████▋     | 292/625 [03:44<04:09,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 47%|████▋     | 293/625 [03:45<04:10,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 47%|████▋     | 294/625 [03:45<04:14,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 47%|████▋     | 295/625 [03:46<04:03,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 47%|████▋     | 296/625 [03:47<04:03,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 48%|████▊     | 297/625 [03:48<04:24,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 48%|████▊     | 298/625 [03:49<04:58,  1.10ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 48%|████▊     | 299/625 [03:50<05:08,  1.06ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 48%|████▊     | 300/625 [03:51<04:48,  1.12ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 48%|████▊     | 301/625 [03:51<04:21,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 48%|████▊     | 302/625 [03:52<04:08,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 48%|████▊     | 303/625 [03:53<03:56,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 49%|████▊     | 304/625 [03:53<03:52,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 49%|████▉     | 305/625 [03:54<03:43,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 49%|████▉     | 306/625 [03:55<03:44,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 49%|████▉     | 307/625 [03:56<03:49,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 49%|████▉     | 308/625 [03:56<03:44,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 49%|████▉     | 309/625 [03:57<03:40,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 50%|████▉     | 310/625 [03:58<03:43,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 50%|████▉     | 311/625 [03:58<03:39,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 50%|████▉     | 312/625 [03:59<03:38,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 50%|█████     | 313/625 [04:00<03:34,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 50%|█████     | 314/625 [04:00<03:31,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 50%|█████     | 315/625 [04:02<04:19,  1.19ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 51%|█████     | 316/625 [04:02<04:14,  1.21ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 51%|█████     | 317/625 [04:03<04:08,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 51%|█████     | 318/625 [04:04<04:12,  1.22ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 51%|█████     | 319/625 [04:05<04:02,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 51%|█████     | 320/625 [04:06<04:05,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 51%|█████▏    | 321/625 [04:07<04:27,  1.14ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 52%|█████▏    | 322/625 [04:07<04:16,  1.18ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 52%|█████▏    | 323/625 [04:08<04:32,  1.11ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 52%|█████▏    | 324/625 [04:09<04:12,  1.19ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 52%|█████▏    | 325/625 [04:10<03:57,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 52%|█████▏    | 326/625 [04:11<03:55,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 52%|█████▏    | 327/625 [04:11<03:41,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 52%|█████▏    | 328/625 [04:12<03:42,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 53%|█████▎    | 329/625 [04:12<03:26,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 53%|█████▎    | 330/625 [04:13<03:17,  1.50ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 53%|█████▎    | 331/625 [04:14<03:09,  1.55ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 53%|█████▎    | 332/625 [04:14<03:02,  1.61ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 53%|█████▎    | 333/625 [04:15<02:56,  1.65ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 53%|█████▎    | 334/625 [04:16<03:06,  1.56ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 54%|█████▎    | 335/625 [04:16<03:17,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 54%|█████▍    | 336/625 [04:17<03:18,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 54%|█████▍    | 337/625 [04:18<03:06,  1.54ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 54%|█████▍    | 338/625 [04:18<03:04,  1.56ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 54%|█████▍    | 339/625 [04:19<03:13,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 54%|█████▍    | 340/625 [04:20<03:16,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 55%|█████▍    | 341/625 [04:20<03:14,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 55%|█████▍    | 342/625 [04:21<03:15,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 55%|█████▍    | 343/625 [04:22<03:34,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 55%|█████▌    | 344/625 [04:23<03:33,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 55%|█████▌    | 345/625 [04:23<03:15,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 55%|█████▌    | 346/625 [04:24<03:25,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 56%|█████▌    | 347/625 [04:25<03:18,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 56%|█████▌    | 348/625 [04:25<03:11,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 56%|█████▌    | 349/625 [04:26<03:13,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 56%|█████▌    | 350/625 [04:27<03:15,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 56%|█████▌    | 351/625 [04:28<03:11,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 56%|█████▋    | 352/625 [04:28<03:15,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 56%|█████▋    | 353/625 [04:29<03:12,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 57%|█████▋    | 354/625 [04:30<03:13,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 57%|█████▋    | 355/625 [04:31<03:17,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 57%|█████▋    | 356/625 [04:31<03:16,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 57%|█████▋    | 357/625 [04:32<03:15,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 57%|█████▋    | 358/625 [04:33<03:15,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 57%|█████▋    | 359/625 [04:33<03:08,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 58%|█████▊    | 360/625 [04:34<03:04,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 58%|█████▊    | 361/625 [04:35<03:22,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 58%|█████▊    | 362/625 [04:36<03:08,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 58%|█████▊    | 363/625 [04:36<03:11,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 58%|█████▊    | 364/625 [04:37<03:07,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 58%|█████▊    | 365/625 [04:38<03:17,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 59%|█████▊    | 366/625 [04:39<03:11,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 59%|█████▊    | 367/625 [04:39<03:00,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 59%|█████▉    | 368/625 [04:40<02:57,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 59%|█████▉    | 369/625 [04:41<02:58,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 59%|█████▉    | 370/625 [04:41<03:10,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 59%|█████▉    | 371/625 [04:42<03:15,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 60%|█████▉    | 372/625 [04:43<03:06,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 60%|█████▉    | 373/625 [04:43<02:56,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 60%|█████▉    | 374/625 [04:44<02:58,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 60%|██████    | 375/625 [04:45<02:50,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 60%|██████    | 376/625 [04:46<02:50,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 60%|██████    | 377/625 [04:46<02:59,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 60%|██████    | 378/625 [04:47<02:57,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 61%|██████    | 379/625 [04:48<02:51,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 61%|██████    | 380/625 [04:48<02:49,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 61%|██████    | 381/625 [04:49<02:47,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 61%|██████    | 382/625 [04:50<02:42,  1.49ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 61%|██████▏   | 383/625 [04:50<02:48,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 61%|██████▏   | 384/625 [04:51<02:46,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 62%|██████▏   | 385/625 [04:52<02:48,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 62%|██████▏   | 386/625 [04:53<03:05,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 62%|██████▏   | 387/625 [04:53<02:54,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 62%|██████▏   | 388/625 [04:54<03:04,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 62%|██████▏   | 389/625 [04:55<02:53,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 62%|██████▏   | 390/625 [04:56<02:54,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 63%|██████▎   | 391/625 [04:57<03:13,  1.21ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 63%|██████▎   | 392/625 [04:57<03:07,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 63%|██████▎   | 393/625 [04:58<03:00,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 63%|██████▎   | 394/625 [04:59<03:02,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 63%|██████▎   | 395/625 [05:00<02:48,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 63%|██████▎   | 396/625 [05:00<02:55,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 64%|██████▎   | 397/625 [05:01<02:44,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 64%|██████▎   | 398/625 [05:02<02:41,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 64%|██████▍   | 399/625 [05:02<02:36,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 64%|██████▍   | 400/625 [05:03<02:36,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 64%|██████▍   | 401/625 [05:04<02:42,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 64%|██████▍   | 402/625 [05:05<02:37,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 64%|██████▍   | 403/625 [05:05<02:33,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 65%|██████▍   | 404/625 [05:06<02:37,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 65%|██████▍   | 405/625 [05:07<02:40,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 65%|██████▍   | 406/625 [05:08<02:49,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 65%|██████▌   | 407/625 [05:08<02:51,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 65%|██████▌   | 408/625 [05:09<02:52,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 65%|██████▌   | 409/625 [05:10<02:55,  1.23ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 66%|██████▌   | 410/625 [05:11<02:49,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 66%|██████▌   | 411/625 [05:12<02:41,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 66%|██████▌   | 412/625 [05:13<03:00,  1.18ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 66%|██████▌   | 413/625 [05:13<02:58,  1.19ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 66%|██████▌   | 414/625 [05:14<02:40,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 66%|██████▋   | 415/625 [05:15<02:35,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 67%|██████▋   | 416/625 [05:15<02:32,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 67%|██████▋   | 417/625 [05:16<02:22,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 67%|██████▋   | 418/625 [05:17<02:22,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 67%|██████▋   | 419/625 [05:17<02:20,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 67%|██████▋   | 420/625 [05:18<02:24,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 67%|██████▋   | 421/625 [05:19<02:24,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 68%|██████▊   | 422/625 [05:20<03:06,  1.09ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 68%|██████▊   | 423/625 [05:21<02:54,  1.16ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 68%|██████▊   | 424/625 [05:22<02:45,  1.21ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 68%|██████▊   | 425/625 [05:22<02:30,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 68%|██████▊   | 426/625 [05:23<02:25,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 68%|██████▊   | 427/625 [05:24<02:21,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 68%|██████▊   | 428/625 [05:24<02:17,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 69%|██████▊   | 429/625 [05:25<02:16,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 69%|██████▉   | 430/625 [05:26<02:18,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 69%|██████▉   | 431/625 [05:26<02:12,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 69%|██████▉   | 432/625 [05:27<02:29,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 69%|██████▉   | 433/625 [05:28<02:27,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 69%|██████▉   | 434/625 [05:29<02:18,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 70%|██████▉   | 435/625 [05:30<02:22,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 70%|██████▉   | 436/625 [05:31<02:37,  1.20ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 70%|██████▉   | 437/625 [05:31<02:40,  1.17ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 70%|███████   | 438/625 [05:33<02:53,  1.08ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 70%|███████   | 439/625 [05:33<02:40,  1.16ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 70%|███████   | 440/625 [05:34<02:54,  1.06ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 71%|███████   | 441/625 [05:35<02:36,  1.18ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 71%|███████   | 442/625 [05:36<02:50,  1.07ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 71%|███████   | 443/625 [05:37<02:43,  1.11ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 71%|███████   | 444/625 [05:38<02:29,  1.21ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 71%|███████   | 445/625 [05:39<02:41,  1.11ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 71%|███████▏  | 446/625 [05:39<02:35,  1.15ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 72%|███████▏  | 447/625 [05:40<02:19,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 72%|███████▏  | 448/625 [05:41<02:16,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 72%|███████▏  | 449/625 [05:41<02:07,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 72%|███████▏  | 450/625 [05:42<02:04,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 72%|███████▏  | 451/625 [05:43<02:02,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 72%|███████▏  | 452/625 [05:43<01:59,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 72%|███████▏  | 453/625 [05:44<01:59,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 73%|███████▎  | 454/625 [05:45<01:56,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 73%|███████▎  | 455/625 [05:45<01:53,  1.50ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 73%|███████▎  | 456/625 [05:46<02:01,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 73%|███████▎  | 457/625 [05:47<01:54,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 73%|███████▎  | 458/625 [05:48<01:51,  1.50ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 73%|███████▎  | 459/625 [05:48<01:49,  1.51ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 74%|███████▎  | 460/625 [05:49<01:51,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 74%|███████▍  | 461/625 [05:50<01:51,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 74%|███████▍  | 462/625 [05:50<01:56,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 74%|███████▍  | 463/625 [05:51<01:55,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 74%|███████▍  | 464/625 [05:52<01:50,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 74%|███████▍  | 465/625 [05:52<01:54,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 75%|███████▍  | 466/625 [05:53<01:55,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 75%|███████▍  | 467/625 [05:54<01:55,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 75%|███████▍  | 468/625 [05:55<01:52,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 75%|███████▌  | 469/625 [05:55<01:47,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 75%|███████▌  | 470/625 [05:56<01:48,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 75%|███████▌  | 471/625 [05:57<01:43,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 76%|███████▌  | 472/625 [05:57<01:47,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 76%|███████▌  | 473/625 [05:58<01:47,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 76%|███████▌  | 474/625 [05:59<01:41,  1.49ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 76%|███████▌  | 475/625 [06:00<01:54,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 76%|███████▌  | 476/625 [06:00<01:55,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 76%|███████▋  | 477/625 [06:01<01:53,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 76%|███████▋  | 478/625 [06:02<01:49,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 77%|███████▋  | 479/625 [06:03<01:53,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 77%|███████▋  | 480/625 [06:04<02:03,  1.17ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 77%|███████▋  | 481/625 [06:05<01:58,  1.22ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 77%|███████▋  | 482/625 [06:05<01:51,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 77%|███████▋  | 483/625 [06:06<01:46,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 77%|███████▋  | 484/625 [06:07<01:44,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 78%|███████▊  | 485/625 [06:07<01:39,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 78%|███████▊  | 486/625 [06:08<01:37,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 78%|███████▊  | 487/625 [06:09<01:37,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 78%|███████▊  | 488/625 [06:09<01:35,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 78%|███████▊  | 489/625 [06:10<01:31,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 78%|███████▊  | 490/625 [06:11<01:32,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 79%|███████▊  | 491/625 [06:11<01:27,  1.53ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 79%|███████▊  | 492/625 [06:12<01:26,  1.53ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 79%|███████▉  | 493/625 [06:13<01:27,  1.52ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 79%|███████▉  | 494/625 [06:14<01:37,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 79%|███████▉  | 495/625 [06:14<01:38,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 79%|███████▉  | 496/625 [06:15<01:39,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 80%|███████▉  | 497/625 [06:16<01:36,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 80%|███████▉  | 498/625 [06:16<01:31,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 80%|███████▉  | 499/625 [06:17<01:28,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 80%|████████  | 500/625 [06:18<01:29,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 80%|████████  | 501/625 [06:19<01:26,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 80%|████████  | 502/625 [06:19<01:29,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 80%|████████  | 503/625 [06:20<01:31,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 81%|████████  | 504/625 [06:21<01:30,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 81%|████████  | 505/625 [06:21<01:23,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 81%|████████  | 506/625 [06:22<01:26,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 81%|████████  | 507/625 [06:23<01:22,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 81%|████████▏ | 508/625 [06:24<01:21,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 81%|████████▏ | 509/625 [06:24<01:26,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 82%|████████▏ | 510/625 [06:25<01:29,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 82%|████████▏ | 511/625 [06:26<01:30,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 82%|████████▏ | 512/625 [06:27<01:29,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 82%|████████▏ | 513/625 [06:28<01:22,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 82%|████████▏ | 514/625 [06:28<01:20,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 82%|████████▏ | 515/625 [06:30<01:42,  1.08ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 83%|████████▎ | 516/625 [06:30<01:32,  1.18ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 83%|████████▎ | 517/625 [06:31<01:25,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 83%|████████▎ | 518/625 [06:32<01:22,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 83%|████████▎ | 519/625 [06:32<01:20,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 83%|████████▎ | 520/625 [06:33<01:20,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 83%|████████▎ | 521/625 [06:34<01:23,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 84%|████████▎ | 522/625 [06:35<01:20,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 84%|████████▎ | 523/625 [06:35<01:17,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 84%|████████▍ | 524/625 [06:36<01:14,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 84%|████████▍ | 525/625 [06:37<01:12,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 84%|████████▍ | 526/625 [06:38<01:11,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 84%|████████▍ | 527/625 [06:38<01:10,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 84%|████████▍ | 528/625 [06:39<01:18,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 85%|████████▍ | 529/625 [06:40<01:23,  1.15ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 85%|████████▍ | 530/625 [06:41<01:22,  1.16ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 85%|████████▍ | 531/625 [06:42<01:21,  1.15ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 85%|████████▌ | 532/625 [06:43<01:20,  1.16ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 85%|████████▌ | 533/625 [06:44<01:13,  1.25ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 85%|████████▌ | 534/625 [06:44<01:08,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 86%|████████▌ | 535/625 [06:45<01:05,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 86%|████████▌ | 536/625 [06:46<01:02,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 86%|████████▌ | 537/625 [06:46<00:59,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 86%|████████▌ | 538/625 [06:47<00:59,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 86%|████████▌ | 539/625 [06:47<00:58,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 86%|████████▋ | 540/625 [06:48<00:55,  1.52ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 87%|████████▋ | 541/625 [06:49<00:56,  1.49ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 87%|████████▋ | 542/625 [06:49<00:56,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 87%|████████▋ | 543/625 [06:50<00:56,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 87%|████████▋ | 544/625 [06:51<00:57,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 87%|████████▋ | 545/625 [06:52<00:56,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 87%|████████▋ | 546/625 [06:52<00:55,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 88%|████████▊ | 547/625 [06:53<00:51,  1.51ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 88%|████████▊ | 548/625 [06:54<00:50,  1.53ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 88%|████████▊ | 549/625 [06:54<00:52,  1.44ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 88%|████████▊ | 550/625 [06:55<00:51,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 88%|████████▊ | 551/625 [06:56<00:50,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 88%|████████▊ | 552/625 [06:56<00:51,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 88%|████████▊ | 553/625 [06:57<00:51,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 89%|████████▊ | 554/625 [06:58<00:52,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 89%|████████▉ | 555/625 [06:59<00:53,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 89%|████████▉ | 556/625 [07:00<00:55,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 89%|████████▉ | 557/625 [07:00<00:51,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 89%|████████▉ | 558/625 [07:01<00:51,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 89%|████████▉ | 559/625 [07:02<00:50,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 90%|████████▉ | 560/625 [07:03<00:47,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 90%|████████▉ | 561/625 [07:03<00:46,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 90%|████████▉ | 562/625 [07:04<00:55,  1.14ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 90%|█████████ | 563/625 [07:05<00:54,  1.14ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 90%|█████████ | 564/625 [07:06<00:51,  1.18ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 90%|█████████ | 565/625 [07:07<00:50,  1.18ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 91%|█████████ | 566/625 [07:08<00:44,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 91%|█████████ | 567/625 [07:08<00:42,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 91%|█████████ | 568/625 [07:09<00:40,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 91%|█████████ | 569/625 [07:10<00:39,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 91%|█████████ | 570/625 [07:10<00:41,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 91%|█████████▏| 571/625 [07:11<00:41,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 92%|█████████▏| 572/625 [07:12<00:37,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 92%|█████████▏| 573/625 [07:12<00:34,  1.51ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 92%|█████████▏| 574/625 [07:13<00:34,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 92%|█████████▏| 575/625 [07:14<00:34,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 92%|█████████▏| 576/625 [07:15<00:33,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 92%|█████████▏| 577/625 [07:15<00:33,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 92%|█████████▏| 578/625 [07:16<00:33,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 93%|█████████▎| 579/625 [07:17<00:33,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 93%|█████████▎| 580/625 [07:18<00:33,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 93%|█████████▎| 581/625 [07:18<00:34,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 93%|█████████▎| 582/625 [07:19<00:34,  1.23ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 93%|█████████▎| 583/625 [07:20<00:35,  1.20ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 93%|█████████▎| 584/625 [07:21<00:35,  1.15ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 94%|█████████▎| 585/625 [07:22<00:34,  1.15ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 94%|█████████▍| 586/625 [07:23<00:33,  1.16ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 94%|█████████▍| 587/625 [07:23<00:30,  1.23ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 94%|█████████▍| 588/625 [07:24<00:29,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 94%|█████████▍| 589/625 [07:25<00:28,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 94%|█████████▍| 590/625 [07:26<00:27,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 95%|█████████▍| 591/625 [07:26<00:25,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 95%|█████████▍| 592/625 [07:27<00:24,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 95%|█████████▍| 593/625 [07:28<00:23,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 95%|█████████▌| 594/625 [07:28<00:21,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 95%|█████████▌| 595/625 [07:29<00:21,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 95%|█████████▌| 596/625 [07:30<00:19,  1.47ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 96%|█████████▌| 597/625 [07:30<00:18,  1.51ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 96%|█████████▌| 598/625 [07:31<00:18,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 96%|█████████▌| 599/625 [07:32<00:19,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 96%|█████████▌| 600/625 [07:33<00:19,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 96%|█████████▌| 601/625 [07:34<00:17,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 96%|█████████▋| 602/625 [07:34<00:16,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 96%|█████████▋| 603/625 [07:35<00:15,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 97%|█████████▋| 604/625 [07:36<00:15,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 97%|█████████▋| 605/625 [07:36<00:14,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 97%|█████████▋| 606/625 [07:37<00:13,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 97%|█████████▋| 607/625 [07:38<00:13,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 97%|█████████▋| 608/625 [07:39<00:12,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 97%|█████████▋| 609/625 [07:39<00:11,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 98%|█████████▊| 610/625 [07:40<00:10,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 98%|█████████▊| 611/625 [07:41<00:09,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 98%|█████████▊| 612/625 [07:41<00:08,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 98%|█████████▊| 613/625 [07:42<00:08,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 98%|█████████▊| 614/625 [07:43<00:07,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 98%|█████████▊| 615/625 [07:43<00:06,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 99%|█████████▊| 616/625 [07:44<00:06,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 99%|█████████▊| 617/625 [07:45<00:05,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 99%|█████████▉| 618/625 [07:46<00:05,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 99%|█████████▉| 619/625 [07:46<00:04,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 99%|█████████▉| 620/625 [07:47<00:03,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 99%|█████████▉| 621/625 [07:48<00:02,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+100%|█████████▉| 622/625 [07:49<00:02,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+100%|█████████▉| 623/625 [07:50<00:01,  1.25ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+100%|█████████▉| 624/625 [07:50<00:00,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+100%|██████████| 625/625 [07:50<00:00,  1.33ba/s]
+  0%|          | 0/79 [00:00<?, ?ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  1%|▏         | 1/79 [00:00<01:13,  1.07ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  3%|▎         | 2/79 [00:01<01:12,  1.06ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  4%|▍         | 3/79 [00:02<01:11,  1.06ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  5%|▌         | 4/79 [00:03<01:04,  1.17ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  6%|▋         | 5/79 [00:04<01:01,  1.21ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  8%|▊         | 6/79 [00:05<01:05,  1.12ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+  9%|▉         | 7/79 [00:06<01:00,  1.19ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 10%|█         | 8/79 [00:06<00:56,  1.27ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 11%|█▏        | 9/79 [00:07<00:51,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 13%|█▎        | 10/79 [00:08<00:53,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 14%|█▍        | 11/79 [00:08<00:51,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 15%|█▌        | 12/79 [00:09<00:49,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 16%|█▋        | 13/79 [00:10<00:50,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 18%|█▊        | 14/79 [00:11<00:49,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 19%|█▉        | 15/79 [00:11<00:47,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 20%|██        | 16/79 [00:12<00:45,  1.39ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 22%|██▏       | 17/79 [00:13<00:45,  1.36ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 23%|██▎       | 18/79 [00:13<00:43,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 24%|██▍       | 19/79 [00:14<00:43,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 25%|██▌       | 20/79 [00:15<00:41,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 27%|██▋       | 21/79 [00:16<00:39,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 28%|██▊       | 22/79 [00:16<00:40,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 29%|██▉       | 23/79 [00:17<00:38,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 30%|███       | 24/79 [00:18<00:37,  1.48ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 32%|███▏      | 25/79 [00:19<00:41,  1.30ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 33%|███▎      | 26/79 [00:20<00:46,  1.13ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 34%|███▍      | 27/79 [00:21<00:50,  1.02ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 35%|███▌      | 28/79 [00:22<00:45,  1.12ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 37%|███▋      | 29/79 [00:23<00:44,  1.13ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 38%|███▊      | 30/79 [00:23<00:39,  1.23ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 39%|███▉      | 31/79 [00:24<00:36,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 41%|████      | 32/79 [00:25<00:35,  1.32ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 42%|████▏     | 33/79 [00:25<00:36,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 43%|████▎     | 34/79 [00:26<00:38,  1.18ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 44%|████▍     | 35/79 [00:27<00:40,  1.08ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 46%|████▌     | 36/79 [00:28<00:40,  1.07ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 47%|████▋     | 37/79 [00:29<00:35,  1.18ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 48%|████▊     | 38/79 [00:30<00:31,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 49%|████▉     | 39/79 [00:30<00:29,  1.37ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 51%|█████     | 40/79 [00:31<00:29,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 52%|█████▏    | 41/79 [00:32<00:28,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 53%|█████▎    | 42/79 [00:32<00:26,  1.41ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 54%|█████▍    | 43/79 [00:33<00:24,  1.50ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 56%|█████▌    | 44/79 [00:34<00:22,  1.55ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 57%|█████▋    | 45/79 [00:34<00:22,  1.51ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 58%|█████▊    | 46/79 [00:35<00:23,  1.40ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 59%|█████▉    | 47/79 [00:36<00:22,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 61%|██████    | 48/79 [00:36<00:20,  1.49ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 62%|██████▏   | 49/79 [00:37<00:20,  1.50ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 63%|██████▎   | 50/79 [00:38<00:19,  1.52ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 65%|██████▍   | 51/79 [00:38<00:19,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 66%|██████▌   | 52/79 [00:40<00:22,  1.20ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 67%|██████▋   | 53/79 [00:40<00:21,  1.21ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 68%|██████▊   | 54/79 [00:41<00:19,  1.31ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 70%|██████▉   | 55/79 [00:42<00:16,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 71%|███████   | 56/79 [00:42<00:16,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 72%|███████▏  | 57/79 [00:43<00:15,  1.43ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 73%|███████▎  | 58/79 [00:44<00:14,  1.45ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 75%|███████▍  | 59/79 [00:44<00:14,  1.42ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 76%|███████▌  | 60/79 [00:45<00:13,  1.46ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 77%|███████▋  | 61/79 [00:46<00:13,  1.35ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 78%|███████▊  | 62/79 [00:47<00:12,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 80%|███████▉  | 63/79 [00:47<00:11,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 81%|████████  | 64/79 [00:48<00:10,  1.38ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 82%|████████▏ | 65/79 [00:49<00:10,  1.34ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 84%|████████▎ | 66/79 [00:50<00:10,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 85%|████████▍ | 67/79 [00:51<00:09,  1.26ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 86%|████████▌ | 68/79 [00:51<00:08,  1.33ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 87%|████████▋ | 69/79 [00:52<00:08,  1.23ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 89%|████████▊ | 70/79 [00:53<00:07,  1.20ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 90%|████████▉ | 71/79 [00:54<00:06,  1.25ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 91%|█████████ | 72/79 [00:55<00:05,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 92%|█████████▏| 73/79 [00:55<00:04,  1.29ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 94%|█████████▎| 74/79 [00:56<00:04,  1.24ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 95%|█████████▍| 75/79 [00:57<00:03,  1.28ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 96%|█████████▌| 76/79 [00:58<00:02,  1.04ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 97%|█████████▋| 77/79 [00:59<00:01,  1.06ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+ 99%|█████████▊| 78/79 [01:00<00:00,  1.19ba/s]Ignored unknown kwarg option direction
+Ignored unknown kwarg option direction
+100%|██████████| 79/79 [01:00<00:00,  1.39ba/s]100%|██████████| 79/79 [01:00<00:00,  1.30ba/s]
+The following columns in the training set  don't have a corresponding argument in `BartForConditionalGeneration.forward` and have been ignored: 0.1, 0, token_type_ids.
+/project/6025819/sepehr8/test_generation/BART_test_generation/ENV/lib/python3.8/site-packages/transformers/optimization.py:306: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use thePyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+***** Running training *****
+  Num examples = 624022
+  Num Epochs = 20
+  Instantaneous batch size per device = 2
+  Total train batch size (w. parallel, distributed & accumulation) = 8
+  Gradient Accumulation steps = 1
+  Total optimization steps = 1560060
+Dataset({
+    features: ['0', '0.1', 'input_ids', 'token_type_ids', 'attention_mask', 'labels'],
+    num_rows: 624022
+})
+  0%|          | 0/1560060 [00:00<?, ?it/s]/project/6025819/sepehr8/test_generation/BART_test_generation/ENV/lib/python3.8/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+  0%|          | 1/1560060 [00:15<6565:24:42, 15.15s/it]  0%|          | 2/1560060 [00:17<3261:42:37,  7.53s/it]  0%|          | 3/1560060 [00:19<2205:40:59,  5.09s/it]  0%|          | 4/1560060 [00:21<1709:38:30,  3.95s/it]  0%|          | 5/1560060 [00:23<1435:32:55,  3.31s/it]  0%|          | 6/1560060 [00:26<1270:11:03,  2.93s/it]  0%|          | 7/1560060 [00:28<1165:09:28,  2.69s/it]  0%|          | 8/1560060 [00:30<1096:19:11,  2.53s/it]  0%|          | 9/1560060 [00:32<1050:16:53,  2.42s/it]  0%|          | 10/1560060 [00:34<1019:04:16,  2.35s/it]  0%|          | 11/1560060 [00:37<997:39:34,  2.30s/it]   0%|          | 12/1560060 [00:39<982:46:42,  2.27s/it]  0%|          | 13/1560060 [00:41<972:28:07,  2.24s/it]  0%|          | 14/1560060 [00:43<965:22:45,  2.23s/it]  0%|          | 15/1560060 [00:45<960:27:52,  2.22s/it]  0%|          | 16/1560060 [00:48<957:03:20,  2.21s/it]  0%|          | 17/1560060 [00:50<954:31:55,  2.20s/it]  0%|          | 18/1560060 [00:52<952:51:03,  2.20s/it]  0%|          | 19/1560060 [00:54<951:35:50,  2.20s/it]  0%|          | 20/1560060 [00:56<950:45:43,  2.19s/it]  0%|          | 21/1560060 [00:58<950:08:40,  2.19s/it]  0%|          | 22/1560060 [01:01<949:42:34,  2.19s/it]  0%|          | 23/1560060 [01:03<949:25:59,  2.19s/it]  0%|          | 24/1560060 [01:05<949:18:39,  2.19s/it]  0%|          | 25/1560060 [01:07<949:13:02,  2.19s/it]  0%|          | 26/1560060 [01:09<949:15:34,  2.19s/it]  0%|          | 27/1560060 [01:12<949:05:55,  2.19s/it]  0%|          | 28/1560060 [01:14<948:54:41,  2.19s/it]  0%|          | 29/1560060 [01:16<948:52:36,  2.19s/it]  0%|          | 30/1560060 [01:18<948:56:11,  2.19s/it]  0%|          | 31/1560060 [01:20<949:02:24,  2.19s/it]  0%|          | 32/1560060 [01:23<949:02:47,  2.19s/it]  0%|          | 33/1560060 [01:25<948:52:47,  2.19s/it]  0%|          | 34/1560060 [01:27<948:48:06,  2.19s/it]  0%|          | 35/1560060 [01:29<948:43:07,  2.19s/it]  0%|          | 36/1560060 [01:31<948:39:06,  2.19s/it]  0%|          | 37/1560060 [01:33<948:41:22,  2.19s/it]  0%|          | 38/1560060 [01:36<948:41:28,  2.19s/it]  0%|          | 39/1560060 [01:38<948:42:04,  2.19s/it]  0%|          | 40/1560060 [01:40<948:51:12,  2.19s/it]  0%|          | 41/1560060 [01:42<948:46:43,  2.19s/it]
