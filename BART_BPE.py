@@ -28,10 +28,10 @@ from transformers import (
 #df = pd.read_csv(path  + "_final.csv")
 # train_dataset = load_dataset('csv', data_files="dataset/combined/train_combined.csv")
 # eval_dataset = load_dataset('csv', data_files="dataset/combined/eval_combined.csv")
-train_dataset = load_dataset('csv', data_files="dataset/train_final.csv")
-eval_dataset = load_dataset('csv', data_files="dataset/eval_final.csv")
-# train_dataset = load_dataset('csv', data_files="dataset/small/train_final_500.csv")
-# eval_dataset = load_dataset('csv', data_files="dataset/small/eval_final_500.csv")
+# train_dataset = load_dataset('csv', data_files="dataset/train_final.csv")
+# eval_dataset = load_dataset('csv', data_files="dataset/eval_final.csv")
+train_dataset = load_dataset('csv', data_files="dataset/small/train_final_500.csv")
+eval_dataset = load_dataset('csv', data_files="dataset/small/eval_final_500.csv")
 tokenizer = PreTrainedTokenizerFast(tokenizer_file="./BPE_tokenizer/BPE.json")
 # train_dataset = create_dataset(df['0'].tolist(), df['0.1'].tolist(), tok, pad_truncate=True, max_length=128)
 # eval_dataset = create_dataset(df['0'].tolist(), df['0.1'].tolist(), tok, pad_truncate=True, max_length=128)
@@ -84,7 +84,7 @@ def compute_metrics(eval_preds):
 
 
     
-small_eval_dataset = tokenized_eval_dataset_word['train'].shuffle(seed=42).select(range(1000))
+#small_eval_dataset = tokenized_eval_dataset_word['train'].shuffle(seed=42).select(range(1000))
 if os.path.exists("bart-large-cnn")==False:
     model = BartForConditionalGeneration.from_pretrained("facebook/bart-large-cnn")
     model.save_pretrained("./bart-large-cnn")
