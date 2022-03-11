@@ -26,8 +26,12 @@ from transformers import (
 
 
 #df = pd.read_csv(path  + "_final.csv")
-train_dataset = load_dataset('csv', data_files="dataset/combined/train_combined.csv")
-eval_dataset = load_dataset('csv', data_files="dataset/combined/eval_combined.csv")
+# train_dataset = load_dataset('csv', data_files="dataset/combined/train_combined.csv")
+# eval_dataset = load_dataset('csv', data_files="dataset/combined/eval_combined.csv")
+train_dataset = load_dataset('csv', data_files="dataset/train_final.csv")
+eval_dataset = load_dataset('csv', data_files="dataset/eval_final.csv")
+# train_dataset = load_dataset('csv', data_files="dataset/small/train_final_500.csv")
+# eval_dataset = load_dataset('csv', data_files="dataset/small/eval_final_500.csv")
 tokenizer = PreTrainedTokenizerFast(tokenizer_file="./BPE_tokenizer/BPE.json")
 # train_dataset = create_dataset(df['0'].tolist(), df['0.1'].tolist(), tok, pad_truncate=True, max_length=128)
 # eval_dataset = create_dataset(df['0'].tolist(), df['0.1'].tolist(), tok, pad_truncate=True, max_length=128)
@@ -90,9 +94,9 @@ else:
 tokenizer = PreTrainedTokenizerFast(tokenizer_file="./BPE_tokenizer/BPE.json")
 tokenizer.add_special_tokens({"bos_token": "<s>", "eos_token": "</s>", "unk_token": "<unk>", "sep_token": "</s>",
                               "pad_token": "<pad>", "cls_token": "<s>"})
-training_args = Seq2SeqTrainingArguments(output_dir = "./Bart_BPE_saved_models_evosuite_combined",\
+training_args = Seq2SeqTrainingArguments(output_dir = "./saved_models/Bart_BPE_saved_models_full_tufano",\
                                          per_device_train_batch_size=2,\
-                                         num_train_epochs=5,
+                                         num_train_epochs=20,
                                          evaluation_strategy = "epoch",\
                                          per_device_eval_batch_size=2,\
                                          save_strategy='epoch',\
@@ -108,7 +112,7 @@ trainer = Seq2SeqTrainer(
         model=model,
         args=training_args,
         train_dataset=tokenized_train_dataset_word['train'],
-        eval_dataset=small_eval_dataset ,
+        eval_dataset=tokenized_eval_dataset_word['train'] ,
         tokenizer=tokenizer,
         data_collator=data_collator,
         compute_metrics=compute_metrics
